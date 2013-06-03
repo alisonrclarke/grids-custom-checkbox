@@ -1,7 +1,7 @@
 ShinobiGrids Custom Checkbox (Objective-C)
 =====================
 
-This project demonstrates how to add a checkbox to a custom cell. For more details, see the [accompanying blog post](http://www.shinobicontrols.com/blog/posts/2013/05/21/creating-a-custom-check-box-cell/)
+This project demonstrates how to add a checkbox to a custom cell. For more details, see the [accompanying blog post](http://www.shinobicontrols.com/blog/posts/2013/05/21/creating-a-custom-check-box-cell/).
 
 ![Screenshot](screenshot.png?raw=true)
 
